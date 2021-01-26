@@ -1,0 +1,16 @@
+{
+    "users":[{
+        "fullName":"Rohit",
+        "email":"rohit@gmail.com",
+        "phone":"9999999999",
+        "password":"sunder",
+        "confirmpassword":"sunder"
+    },{
+        "fullName":"Phani",
+        "email":"phani@gmail.com",
+        "phone":"9999999999",
+        "password":"sunder",
+        "confirmpassword":"sunder"
+    }
+]
+}

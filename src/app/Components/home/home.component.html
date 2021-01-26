@@ -1,0 +1,16 @@
+<app-topnav></app-topnav>
+
+<div class = "col-sm-12">
+<table class = " table table-bordered" *ngFor = "let article of articles">
+<thead>
+       <th class = "col-sm-4"> User ID </th>
+       <th class = "col-sm-4"> ID </th>
+       <th class = "col-sm-4"> Title </th>
+</thead>
+<tr>
+<td class = "col-sm-4"> {{ article.userId }} </td>
+<td class = "col-sm-4"> {{ article.id }} </td>
+<td class = "col-sm-4"> {{ article.title }} </td>
+</tr>
+</table>
+</div>
